@@ -1,0 +1,12 @@
+🧩 Problem Statement:
+
+In today’s competitive job market, many candidates struggle with interview preparation due to lack of structured guidance, real-time practice, and personalized feedback. Traditional preparation methods—such as reading question lists or watching tutorials—often fail to simulate real interview pressure or identify specific areas of improvement.
+There is a need for an intelligent, accessible, and role-specific system that can simulate realistic interview scenarios, evaluate candidate responses, and provide immediate, actionable feedback.
+The objective is to develop an AI-powered Interview Trainer Agent that:
+> Simulates mock interviews tailored to job roles and industries.
+> Interacts with users via text, voice, or video.
+> Analyzes user responses using NLP and machine learning techniques.
+> Provides feedback on communication, technical knowledge, and behavioral skills.
+> Tracks user progress and offers suggestions for improvement.
+> This solution will enhance confidence, improve interview skills, and offer continuous, self-paced learning for job seekers across experience levels.
+
