@@ -39,7 +39,7 @@ The system will:
 # Technologies Used 🧑‍💻
 1. IBM Granite Foundation Model (LLM) Powers the core intelligence of IntrAI AGENT by enabling deep understanding and smartly trained users for interview.
 2. Retrieval-Augmented Generation (RAG) with Vector Indexing Enhances answer accuracy by retrieving relevant data from trusted documents before generating a response.
-3. Natural Language Processing (NLP) Allows FinFriend to understand user queries in simple language and respond conversationally across different interview topics.
+3. Natural Language Processing (NLP) Allows IntrAI AGENT to understand user queries in simple language and respond conversationally across different interview topics.
 4. IBM Watsonx.ai Studio Provides the environment to develop, fine-tune, and deploy trustworthy AI models effectively.
 5. IBM Cloud Object Storage Used to securely store documents, datasets, and reference material for AI training and retrieval.
 
@@ -51,16 +51,28 @@ ________________________________________________________________________________
 3. IBM Cloud IAM (Identity and Access Management) Ensures secure authentication, authorization, and role-based access control for all cloud resources.
 Watsonx Vector Index Enables Retrieval-Augmented Generation (RAG) by efficiently searching vectorized documents for accurate, context-aware responses.
 4. IBM Granite Model A foundation LLM that drives IntraAI assistan ability to understand complex interview related questions and generate clear responses.
-5. IBM Cloud Object Storage Used to securely store and retrieve PDFs, datasets, and other knowledge sources like RBI and NPCI documents.
+5. IBM Cloud Object Storage Used to securely store and retrieve PDFs, datasets, and other knowledge sources.
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 # WOW Factors ✨
-1. Built on IBM Watsonx with RAG for Verified Knowledge FinFriend fetches real answers from trusted sources like RBI and NPCI PDFs, ensuring factual accuracy.
-2. Multilingual & Inclusive by Design Supports multiple Indian languages to help users from diverse backgrounds understand digital finance easily.
-3. Polite, Safe & Scam-Aware Conversations Detects off-topic or unsafe queries and gently redirects users while promoting online safety.
-4. Covers Full Spectrum of Financial Literacy Empowers users with knowledge on UPI, budgeting, loans, interest rates, investments, and fraud prevention.
-5. End-to-End Deployment on IBM Cloud Completely hosted and powered by IBM Cloud services — secure, scalable, and future-ready.
+1. 💬 Real-Time AI Feedback
+> Instant, actionable feedback on clarity, tone, structure, and technical accuracy after each answer.
+
+2. 🧠 Adaptive Questioning Engine
+> Dynamically adjusts the difficulty and type of questions based on user performance.
+
+3. 🌍 Multilingual Interview Simulation
+> Supports multiple languages for global users, enabling localized interview practice.
+
+4. 🎤 Voice & Video-Based Mock Interviews
+> Simulates a real HR or panel experience with tone, confidence, and facial expression analysis.
+
+5. 📊 Detailed Performance Analytics
+> Progress tracking with heatmaps, weak-point detection, and skill improvement roadmaps.
+
+6.⚡ Role-Specific & Domain-Specific Question Sets
+> AI-curated technical, behavioral, and situational questions for over 50 job roles.
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
