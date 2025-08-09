@@ -293,7 +293,7 @@ ________________________________________________________________________________
 
 # License ©
 
-> Created by ms-yashi during the IBM SkillsBuild for Academia Internship 2025 provided by Edunet Foundation and AICTE (All India Council for Technical Education) Department of Computational Science.
+> Created by MIT License the IBM SkillsBuild for Academia Internship 2025 provided by Edunet Foundation and AICTE (All India Council for Technical Education) Department of Computational Science.
 
 
 
